@@ -1,0 +1,6 @@
+{
+  "name": "PhytoScan AI - Cell & TS Section Identifier",
+  "description": "Practical AI tool for real-time identification of cells and tissue structures in Transverse Section (T.S.) microscopic images and live camera feeds.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
